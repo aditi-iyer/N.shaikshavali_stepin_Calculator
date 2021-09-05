@@ -11,6 +11,6 @@
 | `3_Implementation` | All code and documentation|
 | `4_Test_plan`      | Documents with test plans and procedures|
 ## Contributors List and Summary
-|SF Id. |  Name   |    Features    |No Test Cases|Test Case Pass|
+|PS no. |  Name   |    Features    |No Test Cases|Test Case Pass|
 |-------|---------|----------------|-------------|--------------|
-| `255967` | Niruganti Shaikshavali | Arthimetic,trignometric and other Opearations |  30   |  30 |
+| `99006268` | Niruganti Shaikshavali | Arthimetic,trignometric and other Opearations |  30   |  30 |
