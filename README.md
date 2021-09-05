@@ -13,4 +13,4 @@
 ## Contributors List and Summary
 |SF Id. |  Name   |    Features    |No Test Cases|Test Case Pass|
 |-------|---------|----------------|-------------|--------------|
-| `255967` | Shoda Pratheep Kumar Reddy | Arthimetic,trignometric and other Opearations |  30   |  30 |
+| `255967` | Niruganti Shaikshavali | Arthimetic,trignometric and other Opearations |  30   |  30 |
