@@ -1,6 +1,6 @@
 /**
  * @file calculator.h
- * @author Pratheep_255967
+ * @author Shaikshavali
  * @brief Functions to perform Arthimetic Operations,Trignometric operations,Factorial,Squareroot and power
  * @version 0.1
  * @date 2021-04-12
