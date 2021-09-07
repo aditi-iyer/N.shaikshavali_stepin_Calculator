@@ -1,6 +1,9 @@
 <a href="https://frontend.code-inspector.com/public/user/github/nirugantishaikshavali">
    <img src="https://code-inspector.com/public/badge/user/github/nirugantishaikshavali?style=light" alt="code inspector badge" />
+<img src="https://www.code-inspector.com/project/27805/score/svg" />
+<img src="https://www.code-inspector.com/project/27805/status/svg" />
 </a>
+
 
 
 # SDLC Activity Based Learning
