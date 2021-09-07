@@ -6,6 +6,7 @@
 
 
 
+
 # SDLC Activity Based Learning
 ![Poster](https://github.com/nirugantishaikshavali/N.shaikshavali_stepin_Calculator/blob/main/1_Requirements/Poster.png)
 |Build|Unit Test|cppcheck|Valgrind|Coverage|Git Inspector|
