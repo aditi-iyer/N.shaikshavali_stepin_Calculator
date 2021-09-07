@@ -1,8 +1,11 @@
 <a href="https://frontend.code-inspector.com/public/user/github/nirugantishaikshavali">
    <img src="https://code-inspector.com/public/badge/user/github/nirugantishaikshavali?style=light" alt="code inspector badge" />
-<img src="https://www.code-inspector.com/project/27805/score/svg" />
-<img src="https://www.code-inspector.com/project/27805/status/svg" />
+   <img src="https://www.code-inspector.com/project/27805/score/svg" />
+   <img src="https://www.code-inspector.com/project/27805/status/svg" />
+   
 </a>
+
+
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/6b44e10a463d484c8a7ea3210c273593)](https://www.codacy.com/gh/nirugantishaikshavali/N.shaikshavali_stepin_Calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nirugantishaikshavali/N.shaikshavali_stepin_Calculator&amp;utm_campaign=Badge_Grade)
 
