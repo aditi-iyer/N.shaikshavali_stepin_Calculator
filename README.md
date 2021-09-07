@@ -4,7 +4,9 @@
 <img src="https://www.code-inspector.com/project/27805/status/svg" />
    
 </a>
+
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/6b44e10a463d484c8a7ea3210c273593)](https://www.codacy.com/gh/nirugantishaikshavali/N.shaikshavali_stepin_Calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nirugantishaikshavali/N.shaikshavali_stepin_Calculator&amp;utm_campaign=Badge_Grade)
+
 
 # SDLC Activity Based Learning
 ![Poster](https://github.com/nirugantishaikshavali/N.shaikshavali_stepin_Calculator/blob/main/1_Requirements/Poster.png)
